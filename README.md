@@ -1,2 +1,3 @@
 # arrays-and-vectorized-computation
-# numpy-python
+# numpy-python chapter 4
+     
